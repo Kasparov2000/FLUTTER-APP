@@ -16,6 +16,6 @@ This is a simple Flutter app that demonstrates the use of two data views: `GridV
 To get started, clone this repository and open it in your preferred code editor. Then, run the app using a simulator or a physical device.
 
 ```bash
-git clone https://github.com/kasparov2000/flutter-application-1.git
+git clone https://github.com/Kasparov2000/FLUTTER-APP
 cd flutter-application-1
 flutter run
