@@ -17,5 +17,5 @@ To get started, clone this repository and open it in your preferred code editor.
 
 ```bash
 git clone https://github.com/Kasparov2000/FLUTTER-APP
-cd flutter-application-1
+cd FLUTTER-APP
 flutter run
